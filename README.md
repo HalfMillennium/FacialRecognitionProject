@@ -1,2 +1,1 @@
 # FacialRecognitionProject
-Pretty self explanatory.
